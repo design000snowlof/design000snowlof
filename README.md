@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=design000snowlof&bg_color=DEG,9796F0,FBC7D4&title_color=ffffff&text_color=ffffff&hide_border=true&border_radius=10&show_icons=true&icon_color=ffffff" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=design000snowlof&theme=tokyonight&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=design000snowlof&theme=juicyfresh&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
