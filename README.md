@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="left"> 
-  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=design000snowlof&layout=compact&bg_color=DEG,9796F080,FBC7D480&title_color=ffffff&text_color=ffffff&hide_border=true&border_radius=10" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=design000snowlof&layout=compact&bg_color=DEG,9796F0,FBC7D4&title_color=ffffff&text_color=ffffff&hide_border=true&border_radius=10" />
   <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=design000snowlof&bg_color=DEG,9796F0,FBC7D4&title_color=ffffff&text_color=ffffff&hide_border=true&border_radius=10&show_icons=true&icon_color=ffffff" />
   <img alt="trophy" height="140px" src="https://github-profile-trophy.vercel.app/?username=design000snowlof&theme=dracula&no-frame=true&column=7&margin-w=3" />
 </p>
