@@ -24,6 +24,5 @@ Here are some ideas to get you started:
   <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=design000snowlof&theme=dracula&no-frame=true&row=2&column=4" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=design000snowlof&theme=dracula&no-frame=true&row=2&column=4
-)](https://github.com/ryo-ma/github-profile-trophy)
+
 
